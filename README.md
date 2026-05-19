@@ -8,3 +8,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px">
 </div>
+
+##
+
+🌞 Morning                2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌆 Daytime                4354 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+🌃 Evening                4789 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
