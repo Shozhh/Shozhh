@@ -4,7 +4,9 @@
   </a>
 </div>
 
-##
+#
+
+<img align="right" height="190px" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" />
 
 <h3 align="left"><samp>Connect with me!</samp></h3>
 
@@ -22,9 +24,8 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-<img data-target="animated-image.replacedImage" alt="study.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
 
-##
+#
 
 
 <h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
@@ -42,7 +43,7 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
 <a href= "https://ko-fi.com/shozhh"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-##
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
@@ -50,7 +51,7 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-##
+#
 
 ```text
 🌞 Morning                2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79%
