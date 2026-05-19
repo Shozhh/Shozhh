@@ -5,6 +5,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ##
 
+<h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
+I'm currently posting my small learning progress and projects as I improve little by little. 
+I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px">
 </div>
