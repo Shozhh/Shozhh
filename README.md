@@ -1,7 +1,15 @@
 ## Hello, I am Shozhh :>
 
+<div align="center">
+  <h4 align="center"><samp>
+My programming languages:
+  </samp></h4>
+</div>
+
+<div align="center">
 <img align="center" alt="Python" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
 ##
 
