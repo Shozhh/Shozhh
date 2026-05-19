@@ -5,4 +5,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ##
 
-<img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px"> 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px">
+</div>
