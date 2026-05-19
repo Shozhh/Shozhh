@@ -4,6 +4,9 @@
   </a>
 </div>
 
+
+<img width="2174" height="723" alt="Joao Gabriel Aleixo Painel" src="https://github.com/user-attachments/assets/cd5ff0f9-e2ef-4b6f-8f64-6cb346caf171" />
+
 #
 
 <img align="right" height="190px" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" />
