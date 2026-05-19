@@ -1,4 +1,9 @@
 <div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
+
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -7,7 +12,9 @@
 
 <img width="2174" height="723" alt="Joao Gabriel Aleixo Painel" src="https://github.com/user-attachments/assets/cd5ff0f9-e2ef-4b6f-8f64-6cb346caf171" />
 
+
 #
+
 
 <img align="right" height="190px" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" />
 
@@ -19,9 +26,6 @@
 
 <h3 align="left"><samp>My programming languages ↓</samp></h3>
 
-
-
-  
 <div align="left">
   <img align="center" alt="Python" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -30,6 +34,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 #
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shozhh&theme=radical" />
+
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
 
 <h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
 I'm currently posting my small learning progress and projects as I improve little by little. 
