@@ -1,17 +1,31 @@
-## Hello, I am Shozhh :>
-
 <div align="center">
-  <h4 align="center"><samp>
-My programming languages:
-  </samp></h4>
-</div>
-
-<div align="center">
-<img align="center" alt="Python" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
 ##
+
+<h3 align="left"><samp>Connect with me!</samp></h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaogabrielaleixo777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-aleixo-8b987b357/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/aleixohh/)
+
+<h3 align="left"><samp>My programming languages ↓</samp></h3>
+
+
+
+  
+<div align="left">
+  <img align="center" alt="Python" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+<img data-target="animated-image.replacedImage" alt="study.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" height="190px" style="display: block; opacity: 1;">
+
+##
+
 
 <h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
 I'm currently posting my small learning progress and projects as I improve little by little. 
@@ -21,11 +35,20 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
   <img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px">
 </div>
 
+
 <p align="center">
 <a href= "https://dev.to/shozhh"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://x.com/Shozhh_"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/shozhh"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
+
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
 
