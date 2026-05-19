@@ -9,6 +9,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
   <img src="https://github.com/user-attachments/assets/ec980051-bcd5-451d-9df9-28080c3f561b" width="150px">
 </div>
 
+<p align="center">
+<a href= "https://dev.to/shozhh"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://x.com/Shozhh_"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/shozhh"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
+
 ##
 
 ```text
