@@ -11,7 +11,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ##
 
-🌞 Morning                2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-🌆 Daytime                4354 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌃 Evening                4789 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+```text
+🌞 Morning                2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+-
+🌆 Daytime                4354 commits        ████████░░░░░░░░░░░░░░░░░   33.29%
+-
+🌃 Evening                4789 commits        █████████░░░░░░░░░░░░░░░░   36.62%
+-
+🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31%
+```
