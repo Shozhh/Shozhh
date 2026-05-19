@@ -1,5 +1,8 @@
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=FFFFFF"
+    width="100%" 
+  />
 </div>
 
 
@@ -13,8 +16,14 @@
 <img width="2174" height="723" alt="Joao Gabriel Aleixo Painel" src="https://github.com/user-attachments/assets/cd5ff0f9-e2ef-4b6f-8f64-6cb346caf171" />
 
 
-#
+##
 
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:E9D5FF,100:A78BFA"
+    width="100%" 
+  />
+</div>
 
 <img align="right" height="190px" src="https://github.com/mari4souza/mari4souza/raw/main/src/study.gif" />
 
@@ -31,16 +40,25 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:E9D5FF,100:A78BFA"
+    width="100%" 
+  />
+</div>
 
-#
+##
 
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:B8FF9A,100:4DFF88"
+    width="100%" 
+  />
+</div>
 
 
 <img align="right" height="190px" src="https://github.com/user-attachments/assets/065c522a-9859-4f4c-a396-dacbe0bacb58" />
 
-
-
-####
 
 <div style="display:flex; justify-content:flex-end;">
 
@@ -48,13 +66,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 </div>
 
-####
-
-###
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:B8FF9A,100:4DFF88"
+    width="100%" 
+  />
 </div>
+
+##
+
 
 <h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
 I'm currently posting my small learning progress and projects as I improve little by little. 
@@ -71,7 +91,8 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
 <a href= "https://ko-fi.com/shozhh"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-###
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
@@ -79,7 +100,10 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+##
+
+
+
 
 ```text
 🌞 Morning                2065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79%
@@ -90,3 +114,11 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
 -
 🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31%
 ```
+
+
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFFFFF"
+    width="100%" 
+  />
+</div>
