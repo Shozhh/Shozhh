@@ -15,6 +15,12 @@
 
 <img width="2174" height="723" alt="Joao Gabriel Aleixo Painel" src="https://github.com/user-attachments/assets/cd5ff0f9-e2ef-4b6f-8f64-6cb346caf171" />
 
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFFFFF"
+    width="100%" 
+  />
+</div>
 
 ##
 
@@ -75,6 +81,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ##
 
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=FFFFFF"
+    width="100%" 
+  />
+</div>
 
 <h4 align="center"><samp> Hi there👋🏻 welcome to my GitHub!
 I'm currently posting my small learning progress and projects as I improve little by little. 
@@ -114,7 +126,6 @@ I'm really enjoying studying Python and exploring programming 🐍 </samp></h4>
 -
 🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31%
 ```
-
 
 <div>
   <img 
